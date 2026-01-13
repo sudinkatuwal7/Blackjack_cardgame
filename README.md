@@ -16,28 +16,30 @@ A simple **Blackjack game** implemented in Python for the console.
 4. The dealer plays automatically after you finish.
 5. The winner is determined based on Blackjack rules.
 
-## 🎮Example
-.------.            _     _            _    _            _    
-|A_  _ |.          | |   | |          | |  (_)          | |   
-|( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
-| \  /|K /\  |     | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
-|  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
-`-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
-      |  \/ K|                            _/ |                
-      `------'                           |__/           
+ ## 🎮Example
 
-    Your cards: [3, 10], current score: 13
-    Computer's first card: 8
+   Do you want to play a game of Blackjack? Type 'y' or 'n': y
+   
+   Your cards: [3, 10], current score: 13
+   
+   Computer's first card: 8
+   
 Type 'y' to get another card or 'n' to pass: y
-    Your cards: [3, 10, 10], current score: 23
-    Computer's first card: 8
-    Your final hand: [3, 10, 10], final score: 23
-    Computer's final hand: [8, 7, 7], final score: 22
-You went over. You lose!
-Do you want to play a game of Blackjack? Type 'y' or 'n': 
+
+   Your cards: [3, 10, 10], current score: 23
+   
+   Computer's first card: 8
+   
+   Your final hand: [3, 10, 10], final score: 23
+   
+   Computer's final hand: [8, 7, 7], final score: 22
+   
+   You went over. You lose!
+   
+   Do you want to play a game of Blackjack? Type 'y' or 'n': n
 
 
 ## ⚡Requirements
-- Python 3.x
+- Python 3
 
 ### Enjoy the Game!!
